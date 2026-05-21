@@ -1,0 +1,22 @@
+[
+  {
+    "serviceId": "SV001",
+    "name": "Giat la",
+    "price": 50000
+  },
+  {
+    "serviceId": "SV002",
+    "name": "An sang",
+    "price": 100000
+  },
+  {
+    "serviceId": "SV003",
+    "name": "Massage",
+    "price": 200000
+  },
+  {
+    "serviceId": "SV004",
+    "name": "Thue xe",
+    "price": 500000
+  }
+]

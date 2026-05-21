@@ -1,0 +1,16 @@
+[
+  {
+    "invoiceId": "INV1",
+    "customerId": "3184",
+    "roomId": "3184",
+    "checkInDay": 12,
+    "checkInMonth": 6,
+    "checkInYear": 2025,
+    "checkOutDay": 14,
+    "checkOutMonth": 6,
+    "checkOutYear": 2025,
+    "roomCharge": 600.000,
+    "serviceCharge": 0.000,
+    "totalAmount": 600.000
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "roomId": "3184",
+    "roomType": "Deluxe",
+    "pricePerDay": 300.000,
+    "isAvailable": true,
+    "services": []
+  },
+  {
+    "roomId": "3170",
+    "roomType": "Standard",
+    "pricePerDay": 100.000,
+    "isAvailable": true,
+    "services": []
+  }
+]
